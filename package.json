@@ -1,0 +1,25 @@
+{
+  "name": "lpi-mongo-poc",
+  "version": "1.0.0",
+  "description": "POC to check MongoDB as choice of DB for LPI",
+  "homepage": "https://github.com/ankur-pg/lpi-mongo-poc#readme",
+  "bugs": {
+    "url": "https://github.com/ankur-pg/lpi-mongo-poc/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankur-pg/lpi-mongo-poc.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mongodb": "^7.0.0"
+  }
+}
